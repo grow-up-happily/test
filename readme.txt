@@ -5,3 +5,6 @@ Git has a mutable index called stage.
 git tracks changes of file.
 
 create a readme.txt
+
+Creating a new branch is quick & simple.
+
