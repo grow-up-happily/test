@@ -6,5 +6,9 @@ git tracks changes of file.
 
 create a readme.txt
 
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
 
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
